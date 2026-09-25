@@ -5,7 +5,7 @@ set -euo pipefail
 # Configurable variables
 PROJECT_PATH="Demos/DemoApp/DemoApp.xcodeproj"
 SCHEME="DemoApp"
-DESTINATION="name=iPhone 16 Pro"
+DESTINATION="name=iPhone 15"
 XCRESULT_PATH="TestResults.xcresult"
 OUTPUT_FILE="order-file.txt"
 
